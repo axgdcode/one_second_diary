@@ -22,21 +22,21 @@ const Map<String, String> fr = {
   'day': 'jour',
   'totalRecordedTitle': 'Vous avez enregistré :',
   'tapBelowToGenerate': 'Appuyez sur le bouton ci-dessous pour\ngénérer un seul fichier vidéo :',
-  'editQuestionTitle': 'Editer la vidéo ?',
+  'editQuestionTitle': 'Éditer la vidéo ?',
   'editQuestion': 'Votre enregistrement précédent sera supprimé, voulez-vous continuer ?',
   'yes': 'Oui',
   'no': 'Non',
   'edit': 'Modifier',
-  'emojiHappy': 'Incroyable!\nA demain.',
-  'emojiSad': 'En attente de\nvotre enregistrement ...',
+  'emojiHappy': 'Incroyable !\nÀ demain.',
+  'emojiSad': 'En attente de\nvotre enregistrement…',
   'rotateDevice': 'Tournez votre appareil vers la gauche',
   'recordingErrorTitle': "Erreur d'enregistrement vidéo !",
   'save': 'Sauvegarder',
   'saveVideoErrorTitle': 'Erreur de sauvegarde de la vidéo !',
   'videoSavedTitle': 'Vidéo sauvegardée !',
-  'videoSavedDesc': 'A demain :)',
-  'editVideoProperties': 'Editer les propriétés vidéo',
-  'comingSoon': ' Bientôt disponible... ',
+  'videoSavedDesc': 'À demain :)',
+  'editVideoProperties': 'Éditer les propriétés vidéo',
+  'comingSoon': ' Bientôt disponible… ',
   'saveVideo': 'Sauvegarder la vidéo',
   'discardVideoTitle': 'Rejeter cette vidéo ?',
   'discardVideoDesc': 'Appuyez sur "Oui" pour enregistrer de nouveau',
@@ -91,7 +91,7 @@ const Map<String, String> fr = {
   'enterSubtitles': 'Entrer le sous-titre (facultative)',
   'totalSelected': 'Total sélectionné: ',
   'selectVideos': 'Sélectionner les vidéos',
-  'editSubtitles': 'Editer les sous-titres',
+  'editSubtitles': 'Éditer les sous-titres',
   'noVideoRecorded': 'Aucune vidéo enregistrée',
   'subtitles': 'Sous-titres',
   'addVideo': 'Ajouter une vidéo',
@@ -108,15 +108,15 @@ const Map<String, String> fr = {
   'newProfileTooltip':
       'La création d\'un nouveau profil configurera un répertoire séparé pour les vidéos créées pendant que ce profil est sélectionné',
   'deleteProfileTooltip':
-      'Toutes les vidéos associées à ce profil seront également supprimées en permanence. Êtes-vous sûr de continuer?',
+      'Toutes les vidéos associées à ce profil seront également supprimées en permanence. Êtes-vous sûr de continuer ?',
   'profileNameCannotBeEmpty': 'Le nom du profil ne peut pas être vide',
   'reservedProfileName': 'Ceci est un nom de profil réservé',
-  'creatingMovie': 'Traitement... Veuillez patienter.\nCela peut prendre quelques minutes.',
+  'creatingMovie': 'Traitement… Veuillez patienter.\nCela peut prendre quelques minutes.',
   'doNotCloseTheApp': 'Ne fermez pas l\'application',
   'cancelMovieCreation': 'Annuler la création du film',
   'cancelMovieDesc': 'Voulez-vous vraiment annuler la création du film ?',
   'reportError': 'Signaler une erreur',
-  'oops': 'Oops!',
+  'oops': 'Oops !',
   'videoResolutionWarning':
       'Cette résolution vidéo n\'est pas prise en charge pour le moment. Veuillez vous assurer qu\'il a été enregistré  paysage (Ratio 16:9)',
   'unsupportedPortraitMode':
@@ -135,7 +135,7 @@ const Map<String, String> fr = {
       'Une erreur s\'est produite lors de la tentative de récupération de votre emplacement. Veuillez ajouter un emplacement personnalisé manuellement.',
   'whatsNew': 'Quoi de neuf',
   'whatsNewDescv15':
-      'Cette version a apporté de nombreuses nouvelles fonctionnalités et améliorations!\n\nJetez un coup d\'œil aux prochaines pages 😊',
+      'Cette version a apporté de nombreuses nouvelles fonctionnalités et améliorations !\n\nJetez un coup d\'œil aux prochaines pages 😊',
   'feat1v15': 'Galerie',
   'featDesc1v15': 'Ajouter facilement des vidéos de la galerie à votre collection 🤩',
   'feat2v15': 'Sous-titres',
@@ -159,7 +159,7 @@ const Map<String, String> fr = {
   'profileNameAlreadyExists': 'Ce nom de profil existe déjà',
   'profileNameCannotContainSpecialChars':
       'Le nom du profil ne peut pas\ncontenir de caractères spéciaux',
-  'subtitlesSaved': 'Sous-titres enregistrés!',
+  'subtitlesSaved': 'Sous-titres enregistrés !',
   'error': 'Erreur',
   'migrationError':
       'Une erreur s\'est produite lors de la migration de vos vidéos. Veuillez fermer l\'application et copier manuellement les vidéos de Internal Storage > OneSecondDiary vers Internal Storage > DCIM > OneSecondDiary et supprimer le dossier ancien par la suite.',
@@ -167,7 +167,7 @@ const Map<String, String> fr = {
   'migrationSuccess':
       'Migration réussie! Toutes les vidéos et films sont maintenant enregistrés dans Internal Storage > DCIM > OneSecondDiary',
   'migrationInProgress':
-      'Migration de toutes vos vidéos vers le nouveau dossier d\'application, veuillez patienter...',
+      'Migration de toutes vos vidéos vers le nouveau dossier d\'application, veuillez patienter…',
   'migrationFolderDeletionError':
       'Migration terminée, mais une erreur s\'est produite lors de la suppression des anciens dossiers. Veuillez le supprimer manuellement.',
   'preferences': 'Préférences',
@@ -184,13 +184,13 @@ const Map<String, String> fr = {
   'useExperimentalPicker': 'Sélecteur de fichiers expérimental',
   'useExperimentalPickerDescription':
       'Utilisez le sélecteur de fichiers expérimental pour sélectionner des vidéos depuis la galerie. Cela permet de prévisualiser la vidéo avant de la sélectionner, d\'accélérer les temps de chargement et d\'afficher directement les enregistrements pour la date sélectionnée. Désactivez-le si vous rencontrez des problèmes ou préférez l\'ancienne méthode.',
-  'currentProfile': 'Profil actuel:',
+  'currentProfile': 'Profil actuel :',
   'change': 'Changer',
-  'sendLogs': 'Envoyer les journaux?',
+  'sendLogs': 'Envoyer les journaux ?',
   'sendLogsDescription':
       'Si vous rencontrez un problème, veuillez appuyer sur "Oui" pour inclure les journaux qui m\'aideront à trouver le problème. Si c\'est une suggestion de fonctionnalité ou un autre sujet, veuillez appuyer sur "Non".',
   'whatsNewDescv152':
-      'La version 1.5.2 a apporté plusieurs corrections et améliorations!\n\nDécouvrez-le dans les pages suivantes 😊',
+      'La version 1.5.2 a apporté plusieurs corrections et améliorations !\n\nDécouvrez-le dans les pages suivantes 😊',
   'feat1v152': 'Traitement vidéo plus rapide',
   'featDesc1v152': 'L\'édition de grandes vidéos est maintenant beaucoup plus rapide 🚀',
   'feat2v152': 'Amélioration de la découpe vidéo',
@@ -202,7 +202,7 @@ const Map<String, String> fr = {
   'feat4v152': 'Verrouillage de l\'orientation',
   'featDesc4v152':
       'Lors de l\'enregistrement dans l\'application, appuyez sur le nouveau bouton après avoir positionné votre téléphone pour verrouiller l\'orientation et éviter des résultats inattendus 📱',
-  'feat5v152': 'Et plus encore...',
+  'feat5v152': 'Et plus encore…',
   'featDesc5v152':
       'Vous trouverez également quelques petites améliorations visuelles et corrections de bugs 🐛',
   'useFilterInExperimentalPicker': 'Utilisez le filtre de date pour choisir des vidéos',
